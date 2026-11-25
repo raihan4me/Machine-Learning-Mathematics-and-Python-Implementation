@@ -18,11 +18,16 @@ You will verify each implementation numerically against scikit-learn. Then you w
 
 What you will build
 
-Two synthetic datasets: house prices for regression and customer churn for classification. The scikit-learn digits dataset (bundled with the library) is used for PCA.
+Two synthetic datasets: house prices for regression and customer churn for classification. 
+The scikit-learn digits dataset (bundled with the library) is used for PCA.
 A Python package mlmath/ with from-scratch implementations, each checked against scikit-learn.
+
 Analysis scripts that save JSON results and PNG plots to outputs/. Plots use the Agg backend and savefig (never plt.show).
+
 A tuned scikit-learn Pipeline, saved with joblib, and a CLI scoring tool.
+
 A pytest suite and a final validation script.
+
 
 ## Environment
 
