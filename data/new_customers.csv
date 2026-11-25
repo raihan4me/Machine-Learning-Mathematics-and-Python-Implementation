@@ -1,0 +1,6 @@
+customer_id,tenure_months,monthly_charge,support_calls
+C001,2,110,5
+C002,70,25,0
+C003,40,60,1
+C004,12,90,3
+C005,60,100,1
