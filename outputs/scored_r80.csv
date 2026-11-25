@@ -1,0 +1,6 @@
+customer_id,tenure_months,monthly_charge,support_calls,p_churn,flag_for_retention
+C001,2,110,5,0.9445,1
+C002,70,25,0,0.0568,0
+C003,40,60,1,0.3277,0
+C004,12,90,3,0.8166,1
+C005,60,100,1,0.3286,0

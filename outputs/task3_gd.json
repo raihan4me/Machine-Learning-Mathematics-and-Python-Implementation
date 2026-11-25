@@ -1,0 +1,46 @@
+{
+  "grad_rel_error": 1.0252379863707101e-09,
+  "raw_diverged": true,
+  "lr_max": 0.9531708442670073,
+  "sweep": {
+    "0.0005": {
+      "epochs": 5000,
+      "final_loss": 227.45773989337198,
+      "diverged": false,
+      "converged": false
+    },
+    "0.01": {
+      "epochs": 898,
+      "final_loss": 223.29377510104146,
+      "diverged": false,
+      "converged": true
+    },
+    "0.1": {
+      "epochs": 89,
+      "final_loss": 223.29377510101875,
+      "diverged": false,
+      "converged": true
+    },
+    "0.5": {
+      "epochs": 9,
+      "final_loss": 223.2937751010173,
+      "diverged": false,
+      "converged": true
+    },
+    "0.8579": {
+      "epochs": 80,
+      "final_loss": 223.29377510101895,
+      "diverged": false,
+      "converged": true
+    },
+    "1.048": {
+      "epochs": 1907,
+      "final_loss": null,
+      "diverged": true,
+      "converged": false
+    }
+  },
+  "max_diff_vs_ols": 4.350360072180592e-09,
+  "below_bound_converged": true,
+  "above_bound_diverged": true
+}

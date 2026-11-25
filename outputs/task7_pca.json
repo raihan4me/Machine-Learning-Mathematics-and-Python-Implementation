@@ -1,0 +1,9 @@
+{
+  "eig_svd_max_diff": 2.381615288428937e-15,
+  "max_ratio_diff": 2.498001805406602e-16,
+  "min_abs_cos_top10": 0.9999999999999996,
+  "orthonormal_err": 2.220446049250313e-15,
+  "n90_ours": 21,
+  "n90_sklearn": 21,
+  "recon_identity_err": 6.266178224135701e-16
+}

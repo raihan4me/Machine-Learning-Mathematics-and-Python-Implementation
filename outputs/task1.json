@@ -1,0 +1,12 @@
+{
+  "rank": 5,
+  "cond_raw": 593.5841486710563,
+  "cond_std": 1.0449622498568985,
+  "min_eig_std": 948.416526667786,
+  "medians": {
+    "size_m2": 129.05,
+    "rooms": 3.0,
+    "age_years": 29.65,
+    "distance_km": 15.425
+  }
+}

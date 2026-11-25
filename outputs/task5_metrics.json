@@ -1,0 +1,23 @@
+{
+  "ours": {
+    "accuracy": 0.755,
+    "precision": 0.8258426966292135,
+    "recall": 0.6869158878504673,
+    "f1": 0.7499999999999999
+  },
+  "sklearn": {
+    "accuracy": 0.755,
+    "precision": 0.8258426966292135,
+    "recall": 0.6869158878504673,
+    "f1": 0.75
+  },
+  "cm_equal": true,
+  "auc_trapezoid": 0.8579288513717215,
+  "auc_rank": 0.8579288513717215,
+  "auc_sklearn": 0.8579288513717214,
+  "recall80_threshold": 0.4118104203585984,
+  "recall80_recall": 0.8037383177570093,
+  "recall80_precision": 0.7962962962962963,
+  "paradox_accuracy": 0.9538461538461539,
+  "paradox_recall": 0.0
+}
