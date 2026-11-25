@@ -19,6 +19,7 @@ You will verify each implementation numerically against scikit-learn. Then you w
 What you will build
 
 Two synthetic datasets: house prices for regression and customer churn for classification. 
+
 The scikit-learn digits dataset (bundled with the library) is used for PCA.
 A Python package mlmath/ with from-scratch implementations, each checked against scikit-learn.
 
